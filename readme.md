@@ -14,3 +14,4 @@ This repository is created for learning Git and GitHub.
 ## Author
 ainesazmh-lang
 This is my first commit on GitHub!
+I am learning how Git branches work!
